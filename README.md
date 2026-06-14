@@ -29,4 +29,12 @@ Smart-Waste-Management-Bin-Level-Detection-System/
 ├── data/
 │   └── waste_log.csv       # Automated telemetry database matrix
 ├── app.py                  # Streamlit dashboard engine & UI layout
-└── README.md               # Professional project documentation
+├── README.md               # Professional project documentation
+├── main.py
+├── Dashboard/
+|      └── cloud_config.json
+├── arduino_code
+├── outputs/
+|     ├──charts
+|     └──repoarts
+└── requirment.txt    
