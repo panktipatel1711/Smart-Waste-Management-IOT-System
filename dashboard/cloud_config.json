@@ -1,0 +1,5 @@
+{
+    "transport_layer": "HTTP_REST",
+    "target_host": "api.thingspeak.com",
+    "sync_interval_seconds": 15
+}
